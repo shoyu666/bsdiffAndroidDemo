@@ -12,6 +12,7 @@ model {
             versionName = "1.0"
         }
         ndk {
+            platformVersion = 15
             moduleName = 'bsdiff'
             toolchain = 'clang'
             CFlags.addAll(['-Wall'])
