@@ -7,7 +7,7 @@ bsdiff demo for android
 <br>newFile:准备生成的新版本的存放路径
 <br>BsPatch.bspatch(old.getAbsolutePath(), patcher.getAbsolutePath(),newFile.getAbsolutePath());
 
-
+<br>不编译的可以使用已经编译好的so /alone_so_lib
 
 <br>patcher制作（mac）:
 <br>1 控制台运行 brew install bsdiff 安装diff工具   
