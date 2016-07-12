@@ -1,3 +1,4 @@
+
 # bsdiffAndroidDemo
 bsdiff demo for android
 <br>bsdiff 4.3 android demo
@@ -11,3 +12,5 @@ bsdiff demo for android
 <br>patcher制作（mac）:
 <br>1 控制台运行 brew install bsdiff 安装diff工具
 <br>2 bsdiff old.apk new.apk  patcher(patcher就是要生成的增量包)
+
+由于友盟的自动更新要废弃了，所以准备基于bsdiff开发自动更新
