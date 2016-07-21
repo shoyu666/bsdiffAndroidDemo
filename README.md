@@ -1,7 +1,7 @@
 
 # bsdiffAndroidDemo
 bsdiff demo for android
-<br> android studio  & ndk debug
+# support android studio  & ndk debug
 <br>bsdiff 4.3 android demo
 <br>old:老版本apk文件
 <br>patcher:新版本和老版本的diff(也就是增量包)
